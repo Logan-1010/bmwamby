@@ -1,1 +1,25 @@
-﻿<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd"><Placemark><Style><LineStyle><color>ff000000</color><width>1</width></LineStyle><PolyStyle><color>ffb87e37</color></PolyStyle></Style><Polygon><outerBoundaryIs><LinearRing><coordinates>11.573709006667018,48.274980199118446 11.573834429269201,48.27523479719729 11.574056999414651,48.275181389191886 11.574144263834288,48.27517051456619 11.574312304375487,48.27513361895005 11.574549180898357,48.2750990038996 11.574486883575181,48.274885044121156 11.574262446967975,48.274863311545346 11.574048068786155,48.27488977634255 11.57386515843384,48.274934650358595 11.573709006667018,48.274980199118446</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></kml>
+﻿<kml xmlns="http://www.opengis.net/kml/2.2" 
+xmlns:gx="http://www.google.com/kml/ext/2.2" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd">
+<Placemark>
+<Style>
+<LineStyle>
+<color>ff000000</color>
+<width>1</width>
+</LineStyle>
+<PolyStyle>
+<color>ffb87e37</color>
+</PolyStyle>
+</Style>
+<Polygon>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+11.573709006667018,48.274980199118446 11.573834429269201,48.27523479719729 11.574056999414651,48.275181389191886 11.574144263834288,48.27517051456619 11.574312304375487,48.27513361895005 11.574549180898357,48.2750990038996 11.574486883575181,48.274885044121156 11.574262446967975,48.274863311545346 11.574048068786155,48.27488977634255 11.57386515843384,48.274934650358595 11.573709006667018,48.274980199118446
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+</kml>
